@@ -21,7 +21,7 @@ The AI-Enabled Car Parking System is a sophisticated solution designed to optimi
 ## Usage
 
 1. Clone the repository:
-git clone [https://github.com/Rakesh3117/SmartParkingSystem]
+git clone https://github.com/Rakesh3117/SmartParkingSystem
 
 
 2. Install the required dependencies:
